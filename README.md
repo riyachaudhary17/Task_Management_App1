@@ -31,8 +31,6 @@ npm install
 npm start
 ```
 
-The React app will be accessible at `http://localhost:3000`.
-
 ### Backend
 
 ```bash
